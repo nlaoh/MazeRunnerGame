@@ -1,0 +1,221 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Random Maze without modifying terrain (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Length and width set to:
+9 9
+Reading terrain
+Maze generated
+**Printing Maze**
+BasePoint: (167, 71, 140)
+Structure:
+xxxxxxxxx
+........x
+xxxxxxx.x
+x.x...x.x
+x.x.x.x.x
+x...x.x.x
+xxx.x.x.x
+x...x...x
+xxxxxxxxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Random Maze without modifying terrain (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+Building maze in minecraft...
+Creating minecraft maze
+Prev structure saved
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Maze ready to Solve...
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Count: 1
+This coord: 173, 72, 147
+This direction: -1, 0, 0
+Count: 2
+This coord: 174, 72, 146
+This direction: 0, 0, -1
+Count: 3
+This coord: 172, 71, 147
+This direction: -1, -1, 0
+Count: 4
+This coord: 174, 72, 145
+This direction: 0, 0, -1
+Count: 5
+This coord: 171, 71, 147
+This direction: -1, 0, 0
+Count: 6
+This coord: 173, 72, 145
+This direction: -1, 0, 0
+Count: 7
+This coord: 170, 71, 147
+This direction: -1, 0, 0
+Count: 8
+This coord: 172, 71, 145
+This direction: -1, -1, 0
+Count: 9
+This coord: 169, 71, 147
+This direction: -1, 0, 0
+Count: 10
+This coord: 171, 71, 145
+This direction: -1, 0, 0
+Count: 11
+This coord: 168, 71, 147
+This direction: -1, 0, 0
+Count: 12
+This coord: 170, 71, 145
+This direction: -1, 0, 0
+Count: 13
+This coord: 168, 71, 146
+This direction: 0, 0, -1
+Count: 14
+This coord: 170, 71, 144
+This direction: 0, 0, -1
+Count: 15
+This coord: 168, 71, 145
+This direction: 0, 0, -1
+Count: 16
+This coord: 170, 71, 143
+This direction: 0, 0, -1
+Count: 17
+This coord: 168, 71, 144
+This direction: 0, 0, -1
+Count: 18
+This coord: 171, 72, 143
+This direction: 1, 1, 0
+Count: 19
+This coord: 168, 71, 143
+This direction: 0, 0, -1
+Count: 20
+This coord: 172, 72, 143
+This direction: 1, 0, 0
+Count: 21
+This coord: 168, 71, 142
+This direction: 0, 0, -1
+Count: 22
+This coord: 173, 72, 143
+This direction: 1, 0, 0
+Count: 23
+This coord: 172, 72, 142
+This direction: 0, 0, -1
+Count: 24
+This coord: 168, 71, 141
+This direction: 0, 0, -1
+Count: 25
+This coord: 174, 73, 143
+This direction: 1, 1, 0
+Count: 26
+This coord: 172, 73, 141
+This direction: 0, 1, -1
+Count: 27
+This coord: 168, 71, 140
+This direction: 0, 0, -1
+Count: 28
+This coord: 174, 73, 142
+This direction: 0, 0, -1
+Count: 29
+This coord: 171, 72, 141
+This direction: -1, -1, 0
+Count: 30
+This coord: 168, 71, 139
+This direction: 0, 0, -1
+Exit: 168, 71, 139
+This direction: 0, 0, -1
+True direction: 0, 0, -1
+Shortest Path!
+Step[1]: (173, 72, 147)
+Step[2]: (172, 71, 147)
+Step[3]: (171, 71, 147)
+Step[4]: (170, 71, 147)
+Step[5]: (169, 71, 147)
+Step[6]: (168, 71, 147)
+Step[7]: (168, 71, 146)
+Step[8]: (168, 71, 145)
+Step[9]: (168, 71, 144)
+Step[10]: (168, 71, 143)
+Step[11]: (168, 71, 142)
+Step[12]: (168, 71, 141)
+Step[13]: (168, 71, 140)
+Step[14]: (168, 71, 139)
+Maze solved, restoring last tile.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Exiting...
+
+Returning minecraft world to normal and deleting generated mazes...
+Please wait 1-3 minutes.
+
+The End!
+

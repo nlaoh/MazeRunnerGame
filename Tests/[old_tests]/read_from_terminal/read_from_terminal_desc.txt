@@ -1,0 +1,15 @@
+To run:
+./mazeRunner < Tests/read_from_terminal/read_from_terminal.input > Tests/read_from_terminal/read_from_terminal.out
+To check:
+diff -w Tests/read_from_terminal/read_from_terminal.expout Tests/read_from_terminal/read_from_terminal.out
+
+Description:
+    Tests the creation of one maze in minecraft through the terminal at (5000, -58, 4700) and length and width respectively at 7, 5.
+    The maze has the following structure:
+        x.xxx
+        x.x.x
+        x.x.x
+        x.x.x
+        x.x.x
+        x...x
+        xxxxx

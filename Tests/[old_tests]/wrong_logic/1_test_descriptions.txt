@@ -1,0 +1,31 @@
+test - loops test
+This test checks for a logic error, if the user attempts to enter a maze into the command line
+which contains a loop, such as the maze in this example where the centre of the maze is a loop,
+then the user is told the maze is invalid. This should demonstrate that the mazes entered are 
+restricted to being "perfect mazes", a maze without an inner loop.
+
+test - multiple exits test
+This test is for a logic error, where a user would attempt to enter a valid maze (a maze that
+contained only 'x' and '.' characters), however the maze itself was invalid as there would be
+multiple ways to exit the maze instead of the required one. If the maze is found to have 
+multiple exits the program will inform the user that the maze is invalid, as well as list
+exactly how many exits they input so that the user can diagnose what they did wrong. The two
+cases tested are a maze with two exits, and a maze with four exits.
+
+test - no exits test
+This test is also for a logic error, similar to above the user attempts to enter a 'valid' maze,
+however the maze contains a logic error in that the user didn't maze the maze solvable, as it 
+contains no exit. The user will be informed the maze is invalid, as well as told that the reason
+is that the maze did not contain an exit.
+
+test - connected maze test
+This test ensures that if a user enters a maze which consists of a non-connected passageway,
+such as an air space surrounded entirely by walls, then the maze is considered invalid and
+consequently rejected. The user will be informed that the maze is invalid as the passages
+are not entirely connected.
+
+test - wrong width test
+This test checks whether a user attmepts to enter a maze that consists of a 2 x 2 pathway, 
+and if they are found to have done so the program will reject the maze informing them that
+only a maze consisting of 1xZ pathways will be considered valid - a maze with a width passage
+of one block. 

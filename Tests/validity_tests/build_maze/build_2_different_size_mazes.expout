@@ -1,0 +1,135 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Length and width set to:
+9 9
+Maze generated successfully
+**Printing Maze**
+BasePoint: (120, 71, 160)
+Structure:
+xxxxxxxxx
+........x
+xxxxxxx.x
+x.x...x.x
+x.x.x.x.x
+x.x.x.x.x
+x.x.x.x.x
+x...x...x
+xxxxxxxxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+Building maze in minecraft...
+Setting maze foundation
+Resizing envID
+Creating maze foundation
+Creating minecraft maze
+Prev structure saved
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Length and width set to:
+5 5
+Maze generated successfully
+**Printing Maze**
+BasePoint: (115, 71, 150)
+Structure:
+xxxxx
+....x
+xxx.x
+x...x
+xxxxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+Building maze in minecraft...
+Resetting previous maze
+Resetting previous maze foundation
+Setting maze foundation
+Clearing envID
+Resizing envID
+Creating maze foundation
+Creating minecraft maze
+Prev structure saved
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+End of file read from input, exiting program.
+
+Exiting...
+
+Returning minecraft world to normal and deleting generated mazes...
+Please wait 1-3 minutes.
+
+The End!
+

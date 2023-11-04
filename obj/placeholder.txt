@@ -1,0 +1,1 @@
+This is to create the obj folder, .gitignore ignores all .obj files that are stored here

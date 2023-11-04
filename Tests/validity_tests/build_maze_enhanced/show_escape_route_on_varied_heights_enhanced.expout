@@ -1,0 +1,164 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Random Maze without modifying terrain (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Length and width set to:
+9 9
+Reading terrain
+Maze generated
+**Printing Maze**
+BasePoint: (167, 71, 140)
+Structure:
+xxxxxxxxx
+........x
+xxxxxxx.x
+x.x...x.x
+x.x.x.x.x
+x...x.x.x
+xxx.x.x.x
+x...x...x
+xxxxxxxxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Random Maze without modifying terrain (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+Building maze in minecraft...
+Creating minecraft maze
+Prev structure saved
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Maze ready to Solve...
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Finding Path...
+Step[1]: (174, 72, 146)
+Step[2]: (174, 72, 145)
+Step[3]: (173, 72, 145)
+Step[4]: (172, 71, 145)
+Step[5]: (171, 71, 145)
+Step[6]: (170, 71, 145)
+Step[7]: (170, 71, 144)
+Step[8]: (170, 71, 143)
+Step[9]: (171, 72, 143)
+Step[10]: (172, 72, 143)
+Step[11]: (173, 72, 143)
+Step[12]: (174, 73, 143)
+Step[13]: (174, 73, 142)
+Step[14]: (174, 74, 141)
+Step[15]: (174, 73, 142)
+Step[16]: (174, 73, 143)
+Step[17]: (173, 72, 143)
+Step[18]: (172, 72, 143)
+Step[19]: (172, 72, 142)
+Step[20]: (172, 73, 141)
+Step[21]: (171, 72, 141)
+Step[22]: (170, 72, 141)
+Step[23]: (171, 72, 141)
+Step[24]: (172, 73, 141)
+Step[25]: (172, 72, 142)
+Step[26]: (172, 72, 143)
+Step[27]: (171, 72, 143)
+Step[28]: (170, 71, 143)
+Step[29]: (170, 71, 144)
+Step[30]: (170, 71, 145)
+Step[31]: (171, 71, 145)
+Step[32]: (172, 71, 145)
+Step[33]: (173, 72, 145)
+Step[34]: (174, 72, 145)
+Step[35]: (174, 72, 146)
+Step[36]: (174, 72, 147)
+Step[37]: (173, 72, 147)
+Step[38]: (172, 71, 147)
+Step[39]: (171, 71, 147)
+Step[40]: (170, 71, 147)
+Step[41]: (169, 71, 147)
+Step[42]: (168, 71, 147)
+Step[43]: (168, 71, 146)
+Step[44]: (168, 71, 145)
+Step[45]: (168, 71, 144)
+Step[46]: (168, 71, 143)
+Step[47]: (168, 71, 142)
+Step[48]: (168, 71, 141)
+Step[49]: (168, 71, 140)
+Step[50]: (168, 71, 139)
+Maze solved, restoring last tile.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Show Shortest Path (Enhancements)
+4) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Exiting...
+
+Returning minecraft world to normal and deleting generated mazes...
+Please wait 1-3 minutes.
+
+The End!
+

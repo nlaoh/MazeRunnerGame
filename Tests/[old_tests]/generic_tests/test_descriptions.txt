@@ -1,0 +1,12 @@
+test1
+Test input from video
+
+test2
+Generates a single maze at (180, -55, 135)
+creates it in minecraft, then exits
+
+test3
+Generates a single maze at (170, -55, 135)
+creates it in minecraft
+Generates another maze
+then exits

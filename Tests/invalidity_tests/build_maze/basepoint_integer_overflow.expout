@@ -1,0 +1,56 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Integer is too large or small for X coordinate, try entering a different integer.
+Integer is too large or small for Y coordinate, try entering a different integer.
+Integer is too large or small for Z coordinate, try entering a different integer.
+Enter the length and width of the maze:
+Length and width set to:
+3 3
+Maze generated successfully
+**Printing Maze**
+BasePoint: (140, 71, 161)
+Structure:
+xxx
+..x
+xxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Exiting...
+
+The End!
+

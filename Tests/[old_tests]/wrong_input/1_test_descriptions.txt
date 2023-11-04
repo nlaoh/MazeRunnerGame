@@ -1,0 +1,46 @@
+To run: 
+./mazeRunner < Tests/wrong_input/[test_name].input > Tests/wrong_input/[test_name].out
+
+To check:
+diff -w Tests/wrong_input/[test_name].expout Tests/wrong_input/[test_name].out
+
+After done (delete output file):
+rm Tests/wrong_input/[test_name].out
+
+test - maze structure test
+This test attempts to create an almost valid maze, with one 'a' character.
+The test demonstrates that a format of a maze not consiting of only 'x' and '.' will be rejected,
+and the user will be informed that they can only have 'x' and '.' as structure char inputs.
+
+test - not int test
+This test demonstrates that if the user tries to input a non int variable on the main menu
+that it will not accept the input, and inform them that only 1-5 are valid input values.
+
+test - not int test 2
+This test checks for the validity of the input when the user tries to generate a maze. If the 
+user tries to use non int values for basepoint of length and width, it discards the input and asks 
+them to try entering an integer again. 
+
+test - not int test 3
+This test is similar to the above non int test 2, if the user instead tries to read a maze in from the
+command line this test checks to make sure the input values are valid ints, and otherwise it
+does the exact same responses as above.
+
+test - random maze dim test
+This test replicates what would happen if the user attempted to use the random maze section. If the 
+user tries to input negative values for dimensions of the maze, they will be rejected and the user 
+will be given an error message. If the user tries to enter even values they will also be rejected 
+and the user will recieve the same message. As soon as valid values are entered the program accepts them
+and the user's maze will be created.
+
+test - really big and small test
+This test takes an edge case, where the user would enter extremely large values for the main menu navigation,
+both really large positive numbers and really small negative numbers are tested, and both values are rejected
+by the program and the user is given an error message for them.
+
+test - same char structure test
+This test takes an edge case, where the user would enter a maze structure which purely consisted of all 'x' 
+characters, and no other character. The user is informed that a maze of all 'x' chars is invalid, and told
+the reason is because the maze is all 'x' chars, and similarly if the user enters a maze of all '.' chars
+they are given the same error, albeit telling the user that mazes consisting of all '.' chars are rejected instead. 
+

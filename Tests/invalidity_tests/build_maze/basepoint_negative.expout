@@ -1,0 +1,56 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Invalid basePoint, Y coordinate must be 1 unit above ground.
+The ideal Y coordinate for this location would be 63
+Please re-enter your basepoint:
+Enter the length and width of the maze:
+Length and width set to:
+3 3
+Maze generated successfully
+**Printing Maze**
+BasePoint: (140, 71, 161)
+Structure:
+xxx
+..x
+xxx
+**End Printing Maze**
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Returning to menu...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Exiting...
+
+The End!
+
